@@ -1,0 +1,2 @@
+# Amazon-Financial-Modeling-and-Valuation
+ Created 10 years forecast of the company and a sum of the parts comparable company analysis based on the company’s 10-K and the data on Capital IQ, then performed scenarios and sensitivity analysis. Finally, tied all together with a dashboard that summarizes recommendation and valuation as well as some charts and graphs to highlight the possible future trend
